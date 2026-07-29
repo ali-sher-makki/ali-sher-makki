@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:2f2b4a&height=200&section=header&text=Ali%20Sher%20Makki&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20Python%20%C2%B7%20Django%20%C2%B7%20REST%20APIs&descAlignY=55&descSize=18" width="100%"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:6C63FF&height=200&section=header&text=Ali%20Sher%20Makki&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20Python%20%C2%B7%20Django%20%C2%B7%20REST%20APIs&descAlignY=55&descSize=18">
+  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:4834d4,100:6C63FF&height=200&section=header&text=Ali%20Sher%20Makki&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20Python%20%C2%B7%20Django%20%C2%B7%20REST%20APIs&descAlignY=55&descSize=18" width="100%"/>
+</picture>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+production-style+Django+apps;Clean+REST+APIs+%26+real+web+products;Open+for+freelance+%26+full-time+work" alt="Typing SVG" />
