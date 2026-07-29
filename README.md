@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6FDA44&center=true&vCenter=true&width=600&lines=Building+production-style+Django+apps;Clean+REST+APIs+%26+real+web+products;Open+for+freelance+%26+full-time+work" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6FDA44&center=true&vCenter=true&width=600&lines=Building+production-style+Django+apps;Clean+REST+APIs+%26+real+web+products;Open+for+freelance+%26+full-time+work" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,19 +13,31 @@
   <a href="mailto:shery78651214@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ali-sher-makki&style=for-the-badge&color=6fda44&label=PROFILE+VIEWS" />
+</p>
+
 <br/>
 
-### 🚀 About Me
+## 🚀 About Me
 
 I'm a Computer Science graduate (IUB) and full-stack developer who builds real, production-style web applications — not just tutorial clones. I focus on **Django-powered backends**, clean REST APIs, and interfaces that are actually pleasant to use.
 
-- 🔭 Currently open to freelance and full-time web development roles
-- 🌱 Sharpening skills in REST API design and payment/auth integrations (Stripe, Google OAuth)
-- 💬 Ask me about Django, Python, or full-stack architecture
+```python
+class AliSherMakki:
+    def __init__(self):
+        self.role = "Full-Stack Web Developer"
+        self.stack = ["Python", "Django", "JavaScript", "REST APIs"]
+        self.currently_learning = ["Advanced API architecture", "Payment & auth integrations"]
+        self.open_to = "Freelance & full-time opportunities"
+
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something.")
+```
 
 <br/>
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,git,postgres,vercel,figma" />
@@ -35,36 +45,42 @@ I'm a Computer Science graduate (IUB) and full-stack developer who builds real, 
 
 <br/>
 
-### 💼 Featured Projects
+## 💼 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[🎓 Knowledge Link Institute](https://github.com/ali-sher-makki/knowledge-link-institute)**
+### 🎓 [Knowledge Link Institute](https://github.com/ali-sher-makki/knowledge-link-institute)
 Full Django tutoring platform — student/teacher accounts, tutor directories, Stripe payments, Google OAuth login.
+
+**Stack:** Django · Stripe · Google OAuth
 [🔗 Live demo](https://alishermakki.pythonanywhere.com)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🛍️ NOVORA — E-Commerce Store**
+### 🛍️ NOVORA — E-Commerce Store
 Django e-commerce platform for Eastern & Western clothing — cart, wishlist, checkout, and reviews.
+
+**Stack:** Django · Python
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[💻 Personal Portfolio](https://github.com/ali-sher-makki/portfolio)**
-Developer portfolio built with HTML/CSS/JS, deployed on Vercel.
+### 💻 [Personal Portfolio](https://github.com/ali-sher-makki/portfolio)
+Developer portfolio built from scratch and deployed live.
+
+**Stack:** HTML · CSS · JS · Vercel
 [🔗 Live site](https://portfolio-cyan-rho-93.vercel.app)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**More coming soon**
-Actively building and shipping — check pinned repos below for the latest.
+### 🔨 More in progress
+Actively building and shipping — check pinned repos below for the latest work.
 
 </td>
 </tr>
@@ -72,18 +88,21 @@ Actively building and shipping — check pinned repos below for the latest.
 
 <br/>
 
-### 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ali-sher-makki&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6FDA44&icon_color=6FDA44" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-sher-makki&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6FDA44" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-sher-makki&theme=dark&hide_border=true&background=0D1117&ring=6FDA44&fire=6FDA44&currStreakLabel=6FDA44" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ali-sher-makki/ali-sher-makki/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
 <br/>
 
-### 📫 Let's Work Together
+## 📫 Let's Work Together
 
-I'm available for freelance projects and collaborations.
+I'm available for freelance projects and collaborations — reach out through any of these:
 
 <p align="center">
   <a href="https://upwork.com/freelancers/~017c5d404ff0c6ab67"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
