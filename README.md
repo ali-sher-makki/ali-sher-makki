@@ -1,20 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:2f3640&height=200&section=header&text=Ali%20Sher%20Makki&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20Python%20%C2%B7%20Django%20%C2%B7%20REST%20APIs&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:2f2b4a&height=200&section=header&text=Ali%20Sher%20Makki&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20Python%20%C2%B7%20Django%20%C2%B7%20REST%20APIs&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6FDA44&center=true&vCenter=true&width=600&lines=Building+production-style+Django+apps;Clean+REST+APIs+%26+real+web+products;Open+for+freelance+%26+full-time+work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+production-style+Django+apps;Clean+REST+APIs+%26+real+web+products;Open+for+freelance+%26+full-time+work" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://portfolio-cyan-rho-93.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ali-sher-0a2a78266"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://upwork.com/freelancers/~017c5d404ff0c6ab67"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
-  <a href="mailto:shery78651214@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://portfolio-cyan-rho-93.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ali-sher-0a2a78266"><img src="https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://upwork.com/freelancers/~017c5d404ff0c6ab67"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-6C63FF?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+  <a href="mailto:shery78651214@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ali-sher-makki&style=for-the-badge&color=6fda44&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=ali-sher-makki&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" />
 </p>
 
 <br/>
@@ -91,7 +91,7 @@ Actively building and shipping — check pinned repos below for the latest work.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-sher-makki&theme=dark&hide_border=true&background=0D1117&ring=6FDA44&fire=6FDA44&currStreakLabel=6FDA44" />
+  <img src="https://streak-stats.demolab.com/?user=ali-sher-makki&theme=dark&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
 </p>
 
 <p align="center">
@@ -105,11 +105,11 @@ Actively building and shipping — check pinned repos below for the latest work.
 I'm available for freelance projects and collaborations — reach out through any of these:
 
 <p align="center">
-  <a href="https://upwork.com/freelancers/~017c5d404ff0c6ab67"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
-  <a href="https://portfolio-cyan-rho-93.vercel.app"><img src="https://img.shields.io/badge/Portfolio-View%20Work-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ali-sher-0a2a78266"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://upwork.com/freelancers/~017c5d404ff0c6ab67"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-6C63FF?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+  <a href="https://portfolio-cyan-rho-93.vercel.app"><img src="https://img.shields.io/badge/Portfolio-View%20Work-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ali-sher-0a2a78266"><img src="https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:2f3640&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:2f2b4a&height=100&section=footer" width="100%"/>
 </p>
