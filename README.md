@@ -91,10 +91,6 @@ Actively building and shipping — check pinned repos below for the latest work.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ali-sher-makki&theme=dark&hide_border=true&background=0D1117&ring=6FDA44&fire=6FDA44&currStreakLabel=6FDA44" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/ali-sher-makki/ali-sher-makki/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
