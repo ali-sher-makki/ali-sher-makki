@@ -90,14 +90,6 @@ Live B2B e-commerce platform for a real leather goods manufacturer
 <tr>
 <td width="50%" valign="top">
 
-### 🐍 [machine-learning-repository](https://github.com/ali-sher-makki/machine-learning-repository)
-No description provided.
-
-**Stack:** Python
-
-</td>
-<td width="50%" valign="top">
-
 ### 🌐 [knowledge-link-institute](https://github.com/ali-sher-makki/knowledge-link-institute)
 Full Django tutoring platform --- connecting students and teachers— student/teacher accounts, Stripe, Google OAuth 
 
@@ -105,15 +97,12 @@ Full Django tutoring platform --- connecting students and teachers— student/te
 [🔗 Live demo](https://alishermakki.pythonanywhere.com)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🔨 More in progress
 Actively building and shipping — check pinned repos below for the latest work.
 
 </td>
-<td width="50%" valign="top"></td>
 </tr>
 </table>
 <!--END_SECTION:projects-->
