@@ -48,6 +48,74 @@ class AliSherMakki:
 ## 💼 Featured Projects
 
 <!--START_SECTION:projects-->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [futurefactory](https://github.com/ali-sher-makki/futurefactory)
+  Marketing & lead-generation site for a digital agency
+
+**Stack:** Bootstrap · Css · Django · Html · Javascript · Python · Smtp
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [Novora](https://github.com/ali-sher-makki/Novora)
+AI-powered e-commerce platform for Eastern & Western fashion — AI Stylist, chatbot, cart, checkout
+
+**Stack:** Ai · Django · Ecommerce · Python
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [portfolio](https://github.com/ali-sher-makki/portfolio)
+Personal developer portfolio — built from scratch, deployed live
+
+**Stack:** Css · Html · Javascript · Vercel
+[🔗 Live demo](https://portfolio-cyan-rho-93.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🐍 [leather-dynamics](https://github.com/ali-sher-makki/leather-dynamics)
+Live B2B e-commerce platform for a real leather goods manufacturer
+
+**Stack:** Django · Ecommerce · Postgresql · Python
+[🔗 Live demo](https://www.leatherdynamic.com)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐍 [machine-learning-repository](https://github.com/ali-sher-makki/machine-learning-repository)
+No description provided.
+
+**Stack:** Python
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [knowledge-link-institute](https://github.com/ali-sher-makki/knowledge-link-institute)
+Full Django tutoring platform --- connecting students and teachers— student/teacher accounts, Stripe, Google OAuth 
+
+**Stack:** Django · Oath · Python · Stripe
+[🔗 Live demo](https://alishermakki.pythonanywhere.com)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔨 More in progress
+Actively building and shipping — check pinned repos below for the latest work.
+
+</td>
+<td width="50%" valign="top"></td>
+</tr>
+</table>
 <!--END_SECTION:projects-->
 
 <br/>
