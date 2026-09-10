@@ -47,44 +47,8 @@ class AliSherMakki:
 
 ## 💼 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 [Knowledge Link Institute](https://github.com/ali-sher-makki/knowledge-link-institute)
-Full Django tutoring platform — student/teacher accounts, tutor directories, Stripe payments, Google OAuth login.
-
-**Stack:** Django · Stripe · Google OAuth
-[🔗 Live demo](https://alishermakki.pythonanywhere.com)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛍️ NOVORA — E-Commerce Store
-Django e-commerce platform for Eastern & Western clothing — cart, wishlist, checkout, and reviews.
-
-**Stack:** Django · Python
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 [Personal Portfolio](https://github.com/ali-sher-makki/portfolio)
-Developer portfolio built from scratch and deployed live.
-
-**Stack:** HTML · CSS · JS · Vercel
-[🔗 Live site](https://portfolio-cyan-rho-93.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔨 More in progress
-Actively building and shipping — check pinned repos below for the latest work.
-
-</td>
-</tr>
-</table>
+<!--START_SECTION:projects-->
+<!--END_SECTION:projects-->
 
 <br/>
 
