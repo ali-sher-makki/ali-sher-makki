@@ -61,20 +61,20 @@ Personal developer portfolio — built from scratch, deployed live
 </td>
 <td width="50%" valign="top">
 
-### 🌐 [Novora](https://github.com/ali-sher-makki/Novora)
-AI-powered e-commerce platform for Eastern & Western fashion — AI Stylist, chatbot, cart, checkout
+### 🌐 [futurefactory](https://github.com/ali-sher-makki/futurefactory)
+  Marketing & lead-generation site for a digital agency
 
-**Stack:** Ai · Django · Ecommerce · Python
+**Stack:** Bootstrap · Css · Django · Html · Javascript · Python · Smtp
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 [futurefactory](https://github.com/ali-sher-makki/futurefactory)
-  Marketing & lead-generation site for a digital agency
+### 🌐 [Novora](https://github.com/ali-sher-makki/Novora)
+AI-powered e-commerce platform for Eastern & Western fashion — AI Stylist, chatbot, cart, checkout
 
-**Stack:** Bootstrap · Css · Django · Html · Javascript · Python · Smtp
+**Stack:** Ai · Django · Ecommerce · Python
 
 </td>
 <td width="50%" valign="top">
