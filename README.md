@@ -52,19 +52,19 @@ class AliSherMakki:
 <tr>
 <td width="50%" valign="top">
 
+### 🌐 [futurefactory](https://github.com/ali-sher-makki/futurefactory)
+  Marketing & lead-generation site for a digital agency
+
+**Stack:** Bootstrap · Css · Django · Html · Javascript · Python · Smtp
+
+</td>
+<td width="50%" valign="top">
+
 ### 🌐 [portfolio](https://github.com/ali-sher-makki/portfolio)
 Personal developer portfolio — built from scratch, deployed live
 
 **Stack:** Css · Html · Javascript · Vercel
 [🔗 Live demo](https://portfolio-cyan-rho-93.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 [futurefactory](https://github.com/ali-sher-makki/futurefactory)
-  Marketing & lead-generation site for a digital agency
-
-**Stack:** Bootstrap · Css · Django · Html · Javascript · Python · Smtp
 
 </td>
 </tr>
